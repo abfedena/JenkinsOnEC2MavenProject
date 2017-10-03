@@ -1,6 +1,7 @@
 package com.bogotobogo;
 
 public class BankAccount {
+	
 
 	  private double balance;
 
